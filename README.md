@@ -37,3 +37,22 @@ Um assistente que ajuda a comparar **duas opções** (produtos, serviços, curso
 ### 🧩 Conceitos praticados
 
 - Modelagem de dados com dicionários:
+
+### Rodar o Chatbot de Supermercado
+
+
+---
+
+## 🎯 Objetivo do repositório
+
+- Servir como laboratório pessoal de:
+  - **Chatbots em linha de comando**
+  - **Tomada de decisão baseada em dados**
+  - **Organização de código em pequenos módulos reutilizáveis**
+- Ser um ponto de partida para projetos maiores, como:
+  - Bots com persistência de dados.
+  - Integração com APIs externas.
+  - Interfaces gráficas ou web para as mesmas lógicas.
+
+Sinta‑se à vontade para forkar, adaptar e evoluir essas ideias para o seu próprio fluxo de estudos ou projetos reais!
+
